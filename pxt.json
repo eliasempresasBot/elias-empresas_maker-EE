@@ -1,0 +1,22 @@
+{
+    "name": "ELIAS ELIASEMPRESAS",
+    "description": "",
+    "dependencies": {
+        "adafruit-metro-m0-express": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "0.15.66",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ]
+}
